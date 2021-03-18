@@ -1,27 +1,17 @@
 # Coffeeshop
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+##header
+![header](https://user-images.githubusercontent.com/79576987/111648047-03940100-8829-11eb-9793-1a2f078c1d51.PNG)
+##homepage
+![home](https://user-images.githubusercontent.com/79576987/111648183-1eff0c00-8829-11eb-82cb-e0bd7af63213.PNG)
+##infopage(menu)
+![info](https://user-images.githubusercontent.com/79576987/111648246-2b836480-8829-11eb-93eb-2f2f5a66500d.PNG)
+##about
+![about](https://user-images.githubusercontent.com/79576987/111648302-3a6a1700-8829-11eb-8aaf-5494ed6c873e.PNG)
+##FAQs
+![faq](https://user-images.githubusercontent.com/79576987/111648354-45bd4280-8829-11eb-9b72-422410ec3123.PNG)
+##contact
+![contact](https://user-images.githubusercontent.com/79576987/111648401-4fdf4100-8829-11eb-93be-38dda36627d5.PNG)
+##help
+![help](https://user-images.githubusercontent.com/79576987/111648432-5bcb0300-8829-11eb-9b1e-5545fcbaa2e8.PNG)
+##footer
+![footer](https://user-images.githubusercontent.com/79576987/111648473-65ed0180-8829-11eb-8519-75c43e29c6f4.PNG)
