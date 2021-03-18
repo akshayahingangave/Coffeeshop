@@ -1,0 +1,15 @@
+.accordion{
+    width: 80%;
+    margin: 50px auto 50px auto;
+}
+.card-header{
+    background-color: cornsilk;
+}
+.btn{
+    color: chocolate;
+    font-weight: bold;
+}
+.card-body{
+    background-color: rgb(68, 48, 33);
+    color: rgb(247, 217, 188);
+}
